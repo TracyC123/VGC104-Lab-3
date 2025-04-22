@@ -17,3 +17,44 @@ background-position: -1200px;
 
 }    
 }
+
+
+.fire
+{
+background-image:url("Fire+Sparks-Sheet.png");    
+width: ;
+height: ;
+animation: FireSparks 1s; 
+animation-iteration-count: infinite;
+animation-timing-function: steps(10);
+
+}
+
+@keyframes FireSparks
+{
+    from{}
+to{
+background-position: -;  
+
+}    
+}
+
+.attack
+{
+background-image:url("ATTACK\ 1.png");    
+width: ;
+height: ;
+animation: FireSparks 1s; 
+animation-iteration-count: infinite;
+animation-timing-function: steps(10);
+
+}
+
+@keyframes FireSparks
+{
+    from{}
+to{
+background-position: -;  
+
+}    
+}
